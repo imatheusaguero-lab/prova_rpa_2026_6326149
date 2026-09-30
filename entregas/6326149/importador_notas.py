@@ -86,6 +86,6 @@ def importar_notas(caminho: str) -> float:
 
 
 if __name__ == "__main__":
-    importar_notas("notas.csv")
-    importar_notas("arquivo_inexistente.csv")
+    importar_notas("entregas/6326149/notas.csv")
+    importar_notas("entregas/6326149/arquivo_inexistente.csv")
 
